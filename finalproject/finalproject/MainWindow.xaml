@@ -1,0 +1,48 @@
+﻿<Window x:Class="finalproject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:finalproject"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        WindowState="Maximized"
+        SizeToContent="Manual" Height="1080" Width="1920" Loaded="Window_Loaded" WindowStyle="None">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"></RowDefinition>
+            <RowDefinition Height="4*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="2*"></RowDefinition>
+            <RowDefinition Height="6*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Border Grid.Row="1" CornerRadius="20" Background="White" Height="120" HorizontalAlignment="Center">
+            <Label Content="Chninkel the Game" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="72"/>
+        </Border>
+        <Border CornerRadius="20" Background="White" HorizontalAlignment="Center" Grid.Row="2" Width="200" Height="65" Margin="0,25,0,24">
+            <Button Grid.Row="2" Content="Play" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32" Width="200" Height="65" Click="Play_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="Black"/>
+        </Border>
+        <Border CornerRadius="20" Background="White" HorizontalAlignment="Center" Grid.Row="3" Width="200" Height="65" Margin="0,24,0,25">
+            <Button Grid.Row="3" Content="Leaderboard" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32" Width="200" Height="65" Click="Leaderboard_Click" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        </Border>
+        <Border CornerRadius="20" Background="White" HorizontalAlignment="Center" Grid.Row="4" Width="200" Height="65" Margin="0,24,0,24">
+            <Button Grid.Row="4" Content="Credits" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32" Width="200" Height="65" Click="Credits_Click" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        </Border>
+        <Border CornerRadius="20" Background="White" HorizontalAlignment="Center" Grid.Row="5" Width="200" Height="65" Margin="0,25,0,24">
+            <Button Grid.Row="5" Content="Exit" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="32" Width="200" Height="65" Click="Exit_Click" Background="{x:Null}" BorderBrush="{x:Null}"/>
+        </Border>
+        <Border CornerRadius="20" Background="White" HorizontalAlignment="Center" Grid.Row="5" Height="65" Margin="1367,10,342,39">
+            <Label Content="Bottom Player" FontSize="32" VerticalAlignment="Center"/>
+        </Border>
+        <Border CornerRadius="20" Background="White" Grid.Row="5" Width="158" Height="65" Margin="345,10,1417,39">
+            <Label Content="Top Player" FontSize="32" VerticalAlignment="Center"/>
+        </Border>
+
+        <Label x:Name="textlabel1"  Content="" HorizontalAlignment="Right" FontSize="24" VerticalAlignment="Top" Width="320"/>
+        <Image Margin="301,112,1339,0" Grid.RowSpan="3" Grid.Row="2" Stretch="Fill" Source="pack://application:,,,/images/WASD.png"/>
+        <Image Margin="1315,114,290,0" Grid.RowSpan="3" Grid.Row="2" Stretch="Fill" Source="pack://application:,,,/images/Arrow Keys.png"/>
+        <Image Source="pack://application:,,,/images/mainmenubkgr.jpg" Grid.RowSpan="7" Margin="0,0,0,-200" VerticalAlignment="Center" HorizontalAlignment="Center" Panel.ZIndex="-1"/>
+    </Grid>
+</Window>

@@ -1,0 +1,171 @@
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.exe
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.deps.json
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.json
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.dev.json
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.pdb
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.g.cs
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.g.cs
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.cache
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.lref
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.baml
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.baml
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.g.resources
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfoInputs.cache
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfo.cs
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CopyComplete
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.pdb
+C:\Users\marcd\OneDrive\Documenten\DE GAME\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.genruntimeconfig.cache
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.exe
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.deps.json
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.json
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.dev.json
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.pdb
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.g.cs
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.g.cs
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.cache
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.lref
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.baml
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.baml
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.g.resources
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfoInputs.cache
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfo.cs
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.pdb
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.genruntimeconfig.cache
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.exe
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.deps.json
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.json
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.dev.json
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.pdb
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.g.cs
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.g.cs
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.cache
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.lref
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.baml
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.baml
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.g.resources
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfoInputs.cache
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfo.cs
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.pdb
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.genruntimeconfig.cache
+C:\Users\eigenaar\Documents\GitHub\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.AssemblyReference.cache
+C:\Users\Marten\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.AssemblyReference.cache
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.AssemblyReference.cache
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.g.cs
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.g.cs
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.cache
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.lref
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.pdb
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.exe
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.deps.json
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.json
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.dev.json
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.pdb
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.baml
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.baml
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.g.resources
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfoInputs.cache
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfo.cs
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CopyComplete
+C:\Users\MGdeJ\Desktop\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.genruntimeconfig.cache
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.exe
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.deps.json
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.json
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.runtimeconfig.dev.json
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\finalproject.pdb
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.g.cs
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.g.cs
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.g.cs
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.cache
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject_MarkupCompile.lref
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\GameWindow.baml
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\Leaderboard.baml
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\LoginScreen.baml
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.g.resources
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfoInputs.cache
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.AssemblyInfo.cs
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CoreCompileInputs.cache
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.csproj.CopyComplete
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\ref\finalproject.dll
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.pdb
+C:\Users\Leon\Documents\ProjectArcadeb08\finalproject\finalproject\obj\Debug\net5.0-windows\finalproject.genruntimeconfig.cache
